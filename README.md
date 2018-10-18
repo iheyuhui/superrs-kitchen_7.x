@@ -1,6 +1,9 @@
 #** SuperR's Kitchen v1.1.9.0 **#
+
 ##by SuperR##
+
 ##使用方法：cd到本目录终端输入：./superr回车就行
+
 ##linux的一款工具，主要功能解包打包7.x的rom和deodex等，默认中文语言。##
 
 ##**FEATURES**##
